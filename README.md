@@ -1,5 +1,5 @@
 # git-demo
 first traial
 <br>
-authir - rohit jain
+author - rohit jain
 
